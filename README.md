@@ -7,8 +7,16 @@
   - docker 설치
 
   - Postgresql 설치
-
 - JDBC 연동 
+
+### 01/11
+
+- JPA 환경 설정
+  - Spring Boot Data JPA
+  - Postgresql 
+- DB 영속화
+  - JpaRunner 설정
+    -  EntityManager 
 
 #### 출처
 
